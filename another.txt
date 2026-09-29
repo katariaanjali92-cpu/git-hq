@@ -1,2 +1,6 @@
 hello everyone!
 we are here to create new branch.
+<<<<<<< HEAD
+=======
+some more lines added
+>>>>>>> specialbranch
